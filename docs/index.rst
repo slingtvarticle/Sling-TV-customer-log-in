@@ -10,7 +10,7 @@ Discover how to securely log in to your Sling TV customer account, troubleshoot 
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 If you’re a Sling TV customer, accessing your account is the key to unlocking your personalized entertainment lineup. Whether you want to manage your subscription, update payment details, or simply start watching your favorite channels, the Sling TV customer log in process is your first step. In this guide, we’ll show you how to log in easily and answer common questions to make your experience smooth and frustration-free.
 
