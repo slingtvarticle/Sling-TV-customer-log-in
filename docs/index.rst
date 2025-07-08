@@ -6,7 +6,7 @@ How Do I Access My Sling TV Customer Login?
    :caption: Contents:
 Discover how to securely log in to your Sling TV customer account, troubleshoot login problems, and manage your streaming experience with ease.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
